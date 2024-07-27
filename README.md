@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=500&size=30&pause=1000&color=49B5FF&width=435&lines=RAJEEV+RANJAN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=3000&pause=500&color=FFEEE6&center=true&vCenter=true&width=435&lines=%7B++Hello+World++%7D;+I%E2%80%99m+Rajeev+Ranjan)](https://git.io/typing-svg)
 
 
 **`CodeConjurers (Developer)`**
