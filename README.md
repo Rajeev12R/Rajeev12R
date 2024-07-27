@@ -1,4 +1,6 @@
-# 🇮🇳 Rajeev Ranjan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=500&size=30&pause=1000&color=49B5FF&width=435&lines=RAJEEV+RANJAN)](https://git.io/typing-svg)
+
+
 **`CodeConjurers (Developer)`**
 
 Hi there! I'm Rajeev, a second-year BTech student passionate about technology. Curiosity drives me to solve problems and tackle new challenges. I'm diligent, adaptable, and detail-oriented, always committed to continuous learning. Collaboration is where I thrive, enjoying the process of working with diverse teams to innovate and exceed expectations. Excited about contributing to the tech field, my goal is to create a positive impact through meaningful work.
