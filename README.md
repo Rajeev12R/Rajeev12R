@@ -30,10 +30,12 @@ ____
 
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeev12R&show_icons=true&theme=tomorrow) 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rajeev12R&theme=dracula&border_radius=4.5)
-
-###  Rajeev's Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev12R&layout=compact)](https://github.com/Rajeev/github-readme-stats)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://streak-stats.demolab.com?user=Rajeev12R&theme=dracula&border_radius=4.5" alt="GitHub Streak" style="margin-right: 80px;" />
+  <a href="https://github.com/Rajeev/github-readme-stats">
+    <img style="margin-left: 80px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev12R&layout=compact" alt="Rajeev's Top Languages" />
+  </a>
+</div>
 
 <!--### GitHub Trophies
 
