@@ -28,10 +28,16 @@ ____
 
 ### 📊 Stats
 
-![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeev12R&show_icons=true&theme=gruvbox)
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeev12R&show_icons=true&theme=tomorrow) 
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Rajeev12R&theme=dracula&border_radius=4.5)
 
+###  Rajeev's Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev12R&layout=compact)](https://github.com/Rajeev/github-readme-stats)
+
+<!--### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rajeev12R&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,OTHER)](https://github.com/ryo-ma/github-profile-trophy) -->
 #
 
 
