@@ -24,11 +24,20 @@ ___
 ____
 
 
-### 💼 Latest LinkedIn Posts
+### 💼 Latest Projects
 
 <!-- BEGIN LINKEDIN-CARDS -->
-[![NodeJS & JavaScript](https://via.placeholder.com/250x140.png?text=NodeJS+%26+JavaScript)](https://www.linkedin.com/posts/rajeev12r_nodejs-javascript-webdevelopment-activity-7207803559260688385-VCRV?utm_source=share&utm_medium=member_desktop)
+<a href="https://www.linkedin.com/posts/rajeev12r_nodejs-javascript-webdevelopment-activity-7207803559260688385-VCRV?utm_source=share&utm_medium=member_desktop" target="_blank">
+  <img src="https://i.postimg.cc/QCpG1HzK/Screenshot-2024-07-28-at-2-02-36-AM.png" alt="NodeJS & JavaScript" style="width: 250px; height: 140px; border-radius: 5px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</a>
+
+URL Shortener
 <!-- END LINKEDIN-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20On%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rajeev12r)
+
+
+
+
+
 
