@@ -30,7 +30,7 @@ ____
 
 ![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeev12R&show_icons=true&theme=tomorrow) 
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 160px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 160px; padding: 10px;">
   <img src="https://streak-stats.demolab.com?user=Rajeev12R&theme=dracula&border_radius=4.5" alt="GitHub Streak" />
   &#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160
   <a href="https://github.com/Rajeev/github-readme-stats">
