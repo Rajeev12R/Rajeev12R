@@ -17,8 +17,18 @@ ___
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px; invert" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://path-to-your-white-github-icon.svg" />
-
+<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+<br>
+
+____
+
+
+### 💼 Latest LinkedIn Posts
+
+<!-- BEGIN LINKEDIN-CARDS -->
+[![NodeJS & JavaScript](https://via.placeholder.com/250x140.png?text=NodeJS+%26+JavaScript)](https://www.linkedin.com/posts/rajeev12r_nodejs-javascript-webdevelopment-activity-7207803559260688385-VCRV?utm_source=share&utm_medium=member_desktop)
+<!-- END LINKEDIN-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20On%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rajeev12r)
 
