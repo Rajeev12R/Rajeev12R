@@ -34,7 +34,7 @@ ____
   <img src="https://streak-stats.demolab.com?user=Rajeev12R&theme=dracula&border_radius=4.5" alt="GitHub Streak" />
   &#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160
   <a href="https://github.com/Rajeev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev12R&layout=compact" alt="Rajeev's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev12R&layout=compact" alt="Rajeev's Top Languages" style = "padding: 10px;"/>
   </a>
 </div>
 
