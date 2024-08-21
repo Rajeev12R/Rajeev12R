@@ -38,7 +38,9 @@ ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajeev12R&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,OTHER)](https://github.com/ryo-ma/github-profile-trophy) -->
 #
 
-![snake gif](https://github.com/Rajeev12R/Rajeev12R/blob/output/github-contribution-grid-snake.gif)
+## Watch snake eating my github contributions 
+ 
+![snake gif](https://github.com/rajeev12r/rajeev12r/blob/output/github-contribution-grid-snake.svg)
 
 
 
