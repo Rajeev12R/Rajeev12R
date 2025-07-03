@@ -1,16 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=3000&pause=500&color=FFEEE6&center=true&vCenter=true&width=435&lines=%7B++Hello+World++%7D;+I%E2%80%99m+Rajeev+Ranjan)](https://git.io/typing-svg)
 
- 
-**`CodeConjurers (Developer)`**
+**`CodeConjurer (Developer)`**
 
 Hi there! I'm Rajeev, a second-year BTech student passionate about technology. Curiosity drives me to solve problems and tackle new challenges. I'm diligent, adaptable, and detail-oriented, always committed to continuous learning. Collaboration is where I thrive, enjoying the process of working with diverse teams to innovate and exceed expectations. Excited about contributing to the tech field, my goal is to create a positive impact through meaningful work.
 
-___
+---
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -23,24 +24,19 @@ ___
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <br>
 
-#
+---
 
+### 📊 GitHub Stats
 
-### 📊 Stats
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeev12R&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev12R&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Rajeev12R&theme=dracula&border_radius=4.5" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajeev12R&theme=dracula&area=true&hide_border=true" alt="Contribution Graph" height="165" />
+</div>
 
-![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeev12R&show_icons=true&theme=tomorrow) 
+### 🐍 Contribution Snake
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 160px; padding: 10px;">
-  <img src="https://streak-stats.demolab.com?user=Rajeev12R&theme=dracula&border_radius=4.5" alt="GitHub Streak" />
-
-<!--### GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rajeev12R&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,OTHER)](https://github.com/ryo-ma/github-profile-trophy) -->
-#
-
-## Watch snake eating my github contributions 
- 
 ![snake gif](https://github.com/rajeev12r/rajeev12r/blob/output/github-contribution-grid-snake.svg)
 
-
-
+---
