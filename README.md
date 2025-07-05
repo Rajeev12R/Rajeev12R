@@ -13,8 +13,8 @@
 ```typescript
 const rajeev = {
     pronouns: "He/Him",
-    role: "Full Stack Developer",
-    education: "BTech Student (2nd Year)",
+    role: "Full Stack Web Developer",
+    education: "BTech Student (3rd Year)",
     location: "India",
     code: ["Java", "C++", "JavaScript", "Python", "TypeScript"],
     technologies: {
