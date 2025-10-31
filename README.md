@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Hello+World!+I'm+Rajeev+Ranjan;Full+Stack+Developer;Problem+Solver;Code+Conjurer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Hey!+I'm+Rajeev+Ranjan;Full+Stack+Developer+%7C+Problem+Solver;I+build+stuff+that+actually+works.)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -12,21 +12,27 @@
 
 ```typescript
 const rajeev = {
-    pronouns: "He/Him",
-    role: "Full Stack Web Developer",
-    education: "BTech Student (3rd Year)",
-    location: "India",
-    code: ["Java", "C++", "JavaScript", "Python", "TypeScript"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
-        backEnd: ["Node.js", "Express.js"],
-        tools: ["Git", "GitHub", "Postman", "VS Code"],
-        databases: ["MongoDB", "MySQL"],
-        currentlyLearning: ["React Native", "Docker", "AWS"]
-    },
-    motto: "Code with passion, build with purpose!"
+  pronouns: "He/Him",
+  role: "Full Stack Developer & Problem Solver",
+  education: "BTech CSE @ Lovely Professional University",
+  location: "Punjab, India",
+  stack: {
+    frontEnd: ["React", "Next.js", "Tailwind", "Framer Motion", "Material UI"],
+    backEnd: ["Node.js", "Express.js", "Django"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    devOps: ["Docker", "Vercel", "Cloudinary"],
+    languages: ["JavaScript", "TypeScript", "C++", "Java", "Python"]
+  },
+  learning: ["React Native", "AWS", "System Design"],
+  motto: "Code like an artist. Ship like an engineer."
 };
 ```
+
+🎯 Currently working as a **Full Stack Developer Intern at Wide Take**, where I design, optimize, and scale web experiences that perform as good as they look.
+
+💻 I also take **freelance projects**, building complete MERN solutions with real-time features, auth systems, and blazing-fast UIs.
+
+🚀 My zone is clean architecture, fast code, and solving problems that actually matter.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -35,21 +41,56 @@ const rajeev = {
 <div align="center">
 
 **Programming Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python&theme=dark" />
 </p>
 
-**Frontend Development**
+**Frontend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,materialui,framermotion&theme=dark" />
 </p>
 
-**Backend & Tools**
+**Backend / Databases / Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,mysql,docker,git,github,postman,vscode,cloudinary&theme=dark" />
 </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## What I'm Building
+
+<div align="center">
+
+```javascript
+const projects = [
+  "🩺 Medicare-AI — AI healthcare platform using Gemini AI + Stripe",
+  "📄 Resume-AI — AI resume analyzer with live previews and PDF export",
+  "🌐 Converge-X — 2D virtual meeting platform with real-time avatars"
+];
+```
+
+</div>
+
+💡 Every project I build solves a real problem — performance, usability, or accessibility.
+
+If it doesn't make an impact, I don't ship it.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Highlights & Wins
+
+🔥 **CodeClash 2.0 Finalist (Top 10 / 20K+ Teams)** – Presented at Google Gurugram.
+
+🧠 **Trinetra Web Hackathon Finalist (2024)** – Built AI mental health chatbot.
+
+💬 **621+ GitHub Contributions** last year — because consistency > motivation.
+
+🛠 **Open Source Contributor** – React.js & Node.js community projects.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -70,49 +111,25 @@ const rajeev = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Current Focus
+## Focus Right Now
 
 <div align="center">
 
 ```javascript
-const currentGoals = {
-    shortTerm: [
-        "Master React ecosystem",
-        "Build full-stack applications",
-        "Contribute to open source",
-        "Improve DSA skills"
-    ],
-    longTerm: [
-        "Become a Senior Developer",
-        "Lead development teams",
-        "Create innovative solutions",
-        "Mentor aspiring developers"
-    ],
-    currentlyBuilding: [
-        "E-commerce platform",
-        "Task management app",
-        "Portfolio website",
-        "Learning management system"
-    ]
+const focus = {
+  shortTerm: [
+    "Ship more production-grade full-stack projects",
+    "Push deeper into AI integrations with Gemini API",
+    "Contribute regularly to open-source",
+  ],
+  longTerm: [
+    "Build something that scales globally",
+    "Lead a dev team worth remembering",
+    "Turn code into something meaningful"
+  ]
 };
 ```
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajeev12R&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rajeev12r/rajeev12r/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -121,10 +138,9 @@ const currentGoals = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeev12r)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajeev12R)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjranjan2112@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
 </div>
@@ -140,7 +156,5 @@ const currentGoals = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
 </div>
-
----
