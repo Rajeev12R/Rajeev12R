@@ -12,7 +12,6 @@
 
 ```typescript
 const rajeev = {
-  pronouns: "He/Him",
   role: "Full Stack Developer & Problem Solver",
   education: "BTech CSE @ Lovely Professional University",
   location: "Punjab, India",
@@ -23,7 +22,7 @@ const rajeev = {
     devOps: ["Docker", "Vercel", "Cloudinary"],
     languages: ["JavaScript", "TypeScript", "C++", "Java", "Python"]
   },
-  learning: ["React Native", "AWS", "System Design"],
+  learning: ["React Native", "AWS", "System Design", "DevOps"],
   motto: "Code like an artist. Ship like an engineer."
 };
 ```
