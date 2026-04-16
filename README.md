@@ -67,7 +67,7 @@ const rajeev = {
 
 ```javascript
 const projects = [
-  "🩺 Medicare-AII — AI healthcare platform using Gemini AI + Stripe",
+  "🩺 Medicare-AI — AI healthcare platform using Gemini AI + Stripe",
   "📄 Resume-AI — AI resume analyzer with live previews and PDF export",
   "🌐 Converge-X — 2D virtual meeting platform with real-time avatars"
 ];
