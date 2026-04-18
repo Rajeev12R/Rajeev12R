@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
-const rajeev_ranjan = {
+const rajeev = {
   role: "Full Stack Developer & Problem Solver",
   education: "BTech CSE @ Lovely Professional University",
   location: "Punjab, India",
