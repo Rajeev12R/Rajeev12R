@@ -27,7 +27,7 @@ const rajeev_ranjan = {
 };
 ```
 
-🎯 Currently working as a **Full Stack Developer Intern at Wide Take**, where I design, optimize, and scale web experiences that perform as good as they look.
+🎯 Worked as a **Full Stack Developer Intern at Wide Take**, where I design, optimize, and scale web experiences that perform as good as they look.
 
 💻 I also take **freelance projects**, building complete MERN solutions with real-time features, auth systems, and blazing-fast UIs.
 
